@@ -17,5 +17,6 @@ Below is a list of available Namadillo user interfaces:
 * [App.namada.cc](https://app.namada.cc/): A web application for accessing Namada's services.
 
 
+---
 
 _Last updated: January 27, 2025_
